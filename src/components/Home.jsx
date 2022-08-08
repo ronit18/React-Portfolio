@@ -16,7 +16,7 @@ const Home = () => {
 						I'm a{" "}
 						<Typewriter
 							options={{
-								strings: ["a python-developer", "a web-developer."],
+								strings: ["a python-developer.", "a web-developer."],
 								autoStart: true,
 								loop: true,
 							}}
