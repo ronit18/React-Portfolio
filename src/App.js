@@ -7,18 +7,18 @@ import Portfolio from "./components/Portfolio";
 import SocialLinks from "./components/SocialLinks";
 
 function App() {
-  return (
-    <div>
-      <NavBar />
-      <Home />
-      <About />
-      <Portfolio />
-      <Experience />
-      <Contact />
+	return (
+		<div>
+			<NavBar />
+			<Home />
+			<About />
+			<Portfolio />
+			<Experience />
+			<Contact />
 
-      <SocialLinks />
-    </div>
-  );
+			<SocialLinks />
+		</div>
+	);
 }
 
 export default App;
