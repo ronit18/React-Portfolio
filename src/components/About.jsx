@@ -14,8 +14,12 @@ const About = () => {
 				</div>
 
 				<p className="text-xl mt-20">
-					I am good listener and flexible kind of person. I can adjust in any
-					department which is releted to my knowledge. I can give all my
+					I am a student of Instrumentation and Control Engineering currently
+					studying at GEC,Gandhinagar. I am a python and web-developer.
+					Currently Im learning about web-development technologies like ReactJS
+					and TailWindCSS.
+					<br />I am good listener and flexible kind of person. I can adjust in
+					any department which is releted to my knowledge. I can give all my
 					dedication and hardwork to the project/Work I take. I have good
 					knowledge of PLC, Python, Html, Microsoft office, C/C++,
 					CSS(TailWindCSS), JavaScript(ReactJS). I have my many Projects on
