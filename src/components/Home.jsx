@@ -3,14 +3,15 @@ import Typewriter from "typewriter-effect";
 import image from "../assets/image.jpg";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import { Link } from "react-scroll";
-import videoBackground from "../assets/video.mp4";
+import earthVideo from "../assets/video.mp4";
+// import spaceVideo from "../assets/space.mp4";
 
 const Home = () => {
 	return (
 		<div name="home" className="w-full h-[100vh] top-[90px] ">
 			<video
 				className="object-cover h-full w-full absolute -z-10"
-				src={videoBackground}
+				src={earthVideo}
 				autoPlay
 				loop
 				muted
