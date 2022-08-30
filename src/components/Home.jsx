@@ -22,6 +22,8 @@ const Home = () => {
 					<div className="flex flex-col justify-center h-full pr-3">
 						<h2 className="text-4xl sm:text-7xl font-bold text-white ">
 							I'm a Web-Developer.
+		          
+		          {/* For Typing effect*/}
 							{/* <Typewriter
 								options={{
 									strings: ["Python-developer.", "Web-developer."],
